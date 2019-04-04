@@ -1,0 +1,5 @@
+commit c63cb01d0a7eb48714767bcd7cd6291fafec89b0 (HEAD -> logs, origin/master, master)
+Author: unknown <Nora.Kiradzieva@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:43:14 2019 +0200
+
+    Initial commit
